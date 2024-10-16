@@ -18,3 +18,4 @@ theimage2 = "smallrick2.png" //the 2nd image to be displayed
 
 <embed id="roll" src="file:///C:\Users\xee\Documents\astleysong.mp3" >
 
+runninng in virtual box
